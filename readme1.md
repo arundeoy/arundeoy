@@ -8,20 +8,17 @@
 - 🌱 I’m currently mastering  cloud, IOT and embedded development 
 - 💞️ I’m looking to collaborate for work and dive into it
 - 📫 How to reach me write me email deoarun36@gmail.com
+ 
 
 <!---
 arundeoy/arundeoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br>
+<br>
+
+
  
- <br>
-<br>
-🌱 I’m currently learning GraphQL & React.js <br>
-💻<a target="_blank" href="https://deekshasharma.vercel.app/"> Check out my portfolio</a>
-  <p>
-<br>
-
-
 
   <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=arundeoy&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="Deeksha's github stats" />
 
@@ -36,7 +33,6 @@ You can click the Preview link to take a look at your changes.
  </a>
 -->
 <br> 
-<br>
 <br>
 
 <!-- ## Get in touch:
