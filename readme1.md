@@ -34,7 +34,6 @@ You can click the Preview link to take a look at your changes.
 -->
 <br> 
 <br>
-
 <!-- ## Get in touch:
 
 <a style="padding:10px" href="mailto: sharmadeeksha325@gmail.com">
