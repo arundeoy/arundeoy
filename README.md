@@ -35,21 +35,7 @@ You can click the Preview link to take a look at your changes.
 <br> 
 <br>
 
-<!-- ## Get in touch:
 
-<a style="padding:10px" href="mailto: sharmadeeksha325@gmail.com">
-  <img style="width:40px"  src="resources/gmail.png" alt="Mail" />
-</a>
-
-<a style="padding:10px" href="https://www.linkedin.com/in/deeksha-sharma-5430b8188/">
-  <img style="width:40px" src="resources/linkedin.png" alt="Linkedin" />
-</a>
-
-<a style="padding:10px" href="https://www.quora.com/profile/Deeksha-Sharma-774">
-  <img style="width:40px" src="resources/quora.png" alt="Quora profile" />
-</a> -->
-
-<p align="center"> <a href="http://deekshasharma.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=arundeoy&theme=monokai" alt="arundeoy" /></a> </p>
 
 <p align="center"> 
   Visitor count<br>
