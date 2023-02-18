@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
   <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=arundeoy&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="Arundeo's github stats" />
 
-  <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundeoy&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff&hide=EJS" />
+  <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundeoy&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff&hide=EJS" />
   
 <!---
 <a href="https://github.com/arundeoy/Online_Classroom_Web_App">
@@ -34,8 +34,7 @@ You can click the Preview link to take a look at your changes.
 -->
 <br> 
 <br>
-
-
+<br>
 
 <p align="center"> 
   Visitor count<br>
