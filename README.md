@@ -22,8 +22,6 @@ You can click the Preview link to take a look at your changes.
   
 <!---
 
-
-
 <a href="https://github.com/arundeoy/Online_Classroom_Web_App">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=arundeoy&repo=Online_Classroom_Web_App&show_owner&title_color=e6005c" />
  </a>
