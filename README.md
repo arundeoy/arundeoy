@@ -3,7 +3,6 @@
 <p align="left">
 
 ## Hi there, I'm Arundeo  Yadav 👋🏻 
- 
 - 👋 Hi, I’m @arundeoy
 - 👀 I’m a Embedded software engineer, backend and site reliabilty engineer.
 - 🌱 I’m currently mastering  cloud, IOT and embedded development 
